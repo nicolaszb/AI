@@ -2,7 +2,7 @@
 Artificial Intelligence
 
 AI <br>
-Machine Learning
-Redes Neuronales
-Deep Learning
-Big Data
+Machine Learning <br>
+Redes Neuronales<br>
+Deep Learning<br>
+Big Data<br>
