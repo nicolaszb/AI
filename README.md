@@ -1,4 +1,2 @@
 # AI
-Artificial Intelligence <br>
-
-=======================
+Artificial Intelligence
